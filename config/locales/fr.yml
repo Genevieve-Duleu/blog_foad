@@ -1,0 +1,7 @@
+fr:
+    hello: "Hello world"
+    test_en: "alors en français?"
+    test2: "<strong>test en fr 2</strong>"
+    welcome:
+        index:
+            test_e: "alors en français de index?"

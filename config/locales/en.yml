@@ -20,4 +20,9 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+    hello: "Hello world"
+    test_en: "alors?"
+    test2: "<strong>test2</strong>"
+    welcome:
+        index:
+            test_e: "alors de index?"
